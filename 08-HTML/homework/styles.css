@@ -1,0 +1,41 @@
+h1 {
+    color: gold;
+}
+h3 {
+    color:yellow;
+}
+h4 {
+    color:lightsteelblue;
+}
+img {
+    width: 400px;
+}
+#thirdDiv {
+   height: 600px;
+   width: 500px;
+   background: lightseagreen;
+   padding: 50px;
+   border-width: 15px;
+   border-style: double;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+    color:beige
+}
+body {
+    background-image: url("fondoweb.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div {
+    margin-left: auto;
+    margin-right:auto;
+    
+}
+.divClass {
+   justify-content: center;
+   align-items: center;
+    text-align: center;
+}
