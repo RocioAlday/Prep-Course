@@ -1,0 +1,49 @@
+img {
+    width: 230px;
+    padding-left: 100px;
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+#titulo{
+    padding-left: 750px;
+    background-image: url("13087.jpg");
+    background-size: cover;
+}
+div {
+    border-width: 10px;
+    border-style:ridge;
+    margin: 8px;
+    padding-right: 10px;
+    padding-left:10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    }
+h2 {
+    color:white;
+    background-color:darkcyan;
+    text-align: center;
+}
+p {
+    font-size:15px;
+}
+#puesto {
+    font-size: 16px;
+    text-shadow: 1.5px 1.5px 1.5px grey;
+}
+#descrip {
+    font-style: italic;
+}
+#descripcionPersonal{
+    background-color: rgba(105, 105, 105, 0.15); 
+}
+#educacion{
+    background-color: rgba(105, 105, 105, 0.15); 
+}
+#experienciasLaborales{
+    background-color: rgba(105, 105, 105, 0.15); 
+}
+#skills{
+    background-color: rgba(105, 105, 105, 0.15); 
+}
+#hobbies{
+    background-color: rgba(105, 105, 105, 0.15); 
+}
